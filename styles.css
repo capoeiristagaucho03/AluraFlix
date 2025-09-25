@@ -7,9 +7,11 @@ header{
     border-bottom: solid 2px rgb(119, 216, 15);
     padding: 20px;
     font-size: 32px;
-    color: rgb(184, 10, 10);
+    color: rgb(244, 26, 26);
 }
 
 section{
-     background: rgb(74, 142, 1) ;
+     background: rgb(152, 12, 12) ;
+     padding-bottom: 80px;
+     padding-top: 80px;
 }
